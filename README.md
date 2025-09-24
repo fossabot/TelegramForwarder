@@ -1,4 +1,5 @@
 ![img](images/logo/png/logo-title.png)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fseong8899%2FTelegramForwarder.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fseong8899%2FTelegramForwarder?ref=badge_shield)
 
 <h3><div align="center">Telegram 转发器 | Telegram Forwarder</div>
 
@@ -555,3 +556,7 @@ UFB相关
 本项目采用 [GPL-3.0](LICENSE) 开源协议，详细信息请参阅 [LICENSE](LICENSE) 文件。
 
 
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fseong8899%2FTelegramForwarder.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fseong8899%2FTelegramForwarder?ref=badge_large)
